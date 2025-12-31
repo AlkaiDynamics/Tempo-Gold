@@ -1,0 +1,7 @@
+{
+  "name": "Hierarchical Temporal Auditor",
+  "description": "A deep-time forensic engine tracking reality from Planck time to cosmological eons, synchronized with the Universal Linear Second.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
